@@ -72,7 +72,7 @@ $(function() {
     ['YUMEYUKI<br>KOREAN SITE', 'detail/yumeyukikr.html'],
     ['HOLDBLAY<br>ILLUSTRATION SITE', 'detail/holdblay.html'],
     ['CERA<br>MYANMAR SITE', 'detail/cera.html'],
-    ['THE BRIDGE<br>RESEARCH & CONSULTANCY', 'detail/thebridge.html'],
+    ['THE BRIDGE<br>RESEARCH & CONSULTANCY', 'detail/bridge.html'],
   ]
   var IMAGES = [
     ['01_yumeyukijp.jpg', '01_yumeyukijp.jpg'],
